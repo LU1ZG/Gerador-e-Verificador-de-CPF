@@ -8,12 +8,8 @@ importação de bibliotecas:
 
 📱 Cálculo dos dígitos verificadores:
 - Cria 9 números aleatorios entre 0 e 9, utilizando a biblioteca RANDOM.
-- Para o primeiro digito é necessário multiplicar cada um dos 9 valores do CPF por uma contagem regressiva começando de 10 até 2, somando todos os resultados e multiplicando por 10 e obtendo o resto da divisão da conta anterior por 11.
-- Para o segundo digito é necessário a soma dos 9 primeiros dígitos do CPF mais o valor do primeiro digito, multiplicando cada um dos valores por uma contagem regressiva começando de 10, somando todos os resultados e multiplicando por 10 e obtendo o resto da divisão da conta anterior por 11.
-Ex.:  746.824.890-70 (746824890)
-   10  9  8  7  6  5  4  3  2
-*  7   4  6  8  2  4  8  9  0
-   70  36 48 56 12 20 32 27 0
+- Para o primeiro digito é necessário coletar a soma dos 9 primeiros dígitos do CPF multiplicando cada um dos valores por uma contagem regressiva começando de 10, somando todos os resultados e multiplicando por 10 e obtendo o resto da divisão da conta anterior por 11.
+- Para o segundo digito é necessário Colete a soma dos 9 primeiros dígitos do CPF, MAIS O PRIMEIRO DIGITO, multiplicando cada um dos valores por uma contagem regressiva começando de 11, somando todos os resultados e multiplicando por 10 e obtendo o resto da divisão da conta anterior por 11.
 
 🔧 Execução do programa:
 
