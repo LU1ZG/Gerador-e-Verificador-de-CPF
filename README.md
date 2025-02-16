@@ -10,6 +10,7 @@ importação de bibliotecas:
 - Cria 9 números aleatorios entre 0 e 9, utilizando a biblioteca RANDOM.
 - Para o primeiro digito é necessário coletar a soma dos 9 primeiros dígitos do CPF multiplicando cada um dos valores por uma contagem regressiva começando de 10, somando todos os resultados e multiplicando por 10 e obtendo o resto da divisão da conta anterior por 11.
 - Para o segundo digito é necessário Colete a soma dos 9 primeiros dígitos do CPF, MAIS O PRIMEIRO DIGITO, multiplicando cada um dos valores por uma contagem regressiva começando de 11, somando todos os resultados e multiplicando por 10 e obtendo o resto da divisão da conta anterior por 11.
+- Se o resultado anterior for maior que 9, o resultado é 0 contrário disso, o resultado é o valor da conta.
 
 🔧 Execução do programa:
 
