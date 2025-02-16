@@ -17,7 +17,7 @@ importação de bibliotecas:
 - [V] Verificar CPF.
 - [S] Sair do programa.
 
-Saída:
+Exemplo de saída:
 - Geração de CPF:
 - O CPF 529.315.767-19 foi gerado!
 - Verificar CPF:
