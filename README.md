@@ -2,8 +2,8 @@ Este repositório apresenta um Gerador e Verificador de CPF em Python. O program
 
 📁Estrutura do código:
 importação de bibliotecas:
-- RANDOM (Gera números aleatórios escolhidos entre 0 a 9);
-- OS (Permite executar o comando "cls" para limpeza do terminal);
+- RANDOM (Gera números aleatórios escolhidos entre 0 a 9).
+- OS (Permite executar o comando "cls" para limpeza do terminal).
 - RE (Utilizado para excluir pontos e hífen do CPF).
 
 📱 Cálculo dos dígitos verificadores:
@@ -13,4 +13,12 @@ importação de bibliotecas:
 - Se o resultado anterior for maior que 9, o resultado é 0 contrário disso, o resultado é o valor da conta.
 
 🔧 Execução do programa:
+[G] Gerar CPF.
+[V] Verificar CPF.
+[S] Sair do programa.
 
+Saída:
+Geração de CPF
+- O CPF 529.315.767-19 foi gerado!
+Verificar CPF
+- O CPF 529.315.767-19 é valido!
