@@ -13,12 +13,12 @@ importação de bibliotecas:
 - Se o resultado anterior for maior que 9, o resultado é 0 contrário disso, o resultado é o valor da conta.
 
 🔧 Execução do programa:
-[G] Gerar CPF.
-[V] Verificar CPF.
-[S] Sair do programa.
+- [G] Gerar CPF.
+- [V] Verificar CPF.
+- [S] Sair do programa.
 
 Saída:
-Geração de CPF
+- Geração de CPF:
 - O CPF 529.315.767-19 foi gerado!
-Verificar CPF
+- Verificar CPF:
 - O CPF 529.315.767-19 é valido!
